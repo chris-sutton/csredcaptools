@@ -1,5 +1,5 @@
-
-
+#' @export
+#' @import data.table
 copyUserRightsAndUpload <- function(source_vunetid="",target_vunetid="",
                                     uri="",token="") {
   user <- NULL
