@@ -1,3 +1,4 @@
+#' @export
 nice_names <- function(data_dictionary) {
   betternames <- c(
     'variablename',
